@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+ParkingsSon/.idea/.idea.ParkingsSon/.idea
+ParkingsSon/ParkingsSon/ParkingsSon.vcxproj
+ParkingsSon/ParkingsSon/ParkingsSon.vcxproj.filters
